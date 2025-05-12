@@ -18,4 +18,4 @@ pip install -r requirements.txt
 ## 📝 License
 
 This project is licensed under the **Apache License 2.0**.  
-See the [LICENSE](./LICENSE) file for more details.
+See the [LICENSE.txt](./LICENSE.txt) file for more details.
