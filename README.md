@@ -1,6 +1,6 @@
 # An Informed Machine Learning based Environmental Risk Score for Hypertension in European Adults
 This repository contains the code associated with the article:  
-**"An Informed Machine Learning based Environmental Risk Score for Hypertension in European Adults"**, published in *Artificial Intelligence in Medicine*. This code was developed using **Python 3.3.10.13**.
+**"An Informed Machine Learning based Environmental Risk Score for Hypertension in European Adults"**, published in *Artificial Intelligence in Medicine*. This code was developed using **Python 3.10.13**.
 
 ## 📁 Repository Contents
 
